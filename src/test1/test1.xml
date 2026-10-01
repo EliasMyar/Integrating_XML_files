@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scholar>
+	<investigators Name="Nuno Laranjeiro">
+		<articles ArticleName="An_analysis_of_public_REST_web_service_APIs">
+			<Authors>Andy Neumann, Nuno Laranjeiro, Jorge Bernardino</Authors>
+			<Publicationdate>2021/7/1</Publicationdate>
+			<journal>IEEE Transactions on Services Computing</journal>				
+			<volume>14</volume>
+			<issue>4</issue>>
+			<pages>957-970</pages>
+			<publisher>IEEE</publisher>
+			<description>Businesses are increasingly deploying their services on the web, in the form of web applications, SOAP services, message-based services, and, more recently, REST services. Although the movement towards REST is widely recognized, there is not much concrete information regarding the technical features being used in the field, such as typical data formats, how HTTP verbs are being used, or typical URI structures, just to name a few. In this paper, we go through the Alexa.com top 4000 most popular sites to identify precisely 500 websites claiming to provide a REST web service API. We analyze these 500 APIs for key technical features, degree of compliance with REST architectural principles (e.g., resource addressability), and for adherence to best practices (e.g., API versioning). We observed several trends (e.g., widespread JSON support, software-generated documentation), but, at the same time, high diversity …</description>
+			<totalcitations>Cited by 319</totalcitations>
+
+		</articles>
+	</investigators>
+</scholar>

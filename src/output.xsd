@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="scholar">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="investigators"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="investigators">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="articles"/>
+      </xs:sequence>
+      <xs:attribute name="Name" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="articles">
+    <xs:complexType mixed="true">
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="Authors"/>
+        <xs:element ref="Publicationdate"/>
+        <xs:element ref="description"/>
+        <xs:element ref="issue"/>
+        <xs:element ref="journal"/>
+        <xs:element ref="pages"/>
+        <xs:element ref="publisher"/>
+        <xs:element ref="totalcitations"/>
+        <xs:element ref="volume"/>
+      </xs:choice>
+      <xs:attribute name="ArticleName" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Authors" type="xs:string"/>
+  <xs:element name="Publicationdate" type="xs:string"/>
+  <xs:element name="description" type="xs:string"/>
+  <xs:element name="issue" type="xs:integer"/>
+  <xs:element name="journal" type="xs:string"/>
+  <xs:element name="pages" type="xs:NMTOKEN"/>
+  <xs:element name="publisher" type="xs:NCName"/>
+  <xs:element name="totalcitations" type="xs:string"/>
+  <xs:element name="volume" type="xs:integer"/>
+</xs:schema>

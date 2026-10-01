@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-25">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="tools/jaxb-ri/mod/angus-activation.jar"/>
+	<classpathentry kind="lib" path="tools/jaxb-ri/mod/jakarta.activation-api.jar"/>
+	<classpathentry kind="lib" path="tools/jaxb-ri/mod/jakarta.xml.bind-api.jar"/>
+	<classpathentry kind="lib" path="tools/jaxb-ri/mod/jaxb-core.jar"/>
+	<classpathentry kind="lib" path="tools/jaxb-ri/mod/jaxb-impl.jar"/>
+	<classpathentry kind="lib" path="tools/jaxb-ri/mod/jaxb-jxc.jar"/>
+	<classpathentry kind="lib" path="tools/jaxb-ri/mod/jaxb-xjc.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
