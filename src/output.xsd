@@ -3,41 +3,35 @@
   <xs:element name="scholar">
     <xs:complexType>
       <xs:sequence>
-        <xs:element ref="investigators"/>
+        <xs:element maxOccurs="unbounded" ref="investigador"/>
       </xs:sequence>
     </xs:complexType>
   </xs:element>
-  <xs:element name="investigators">
+  <xs:element name="investigador">
     <xs:complexType>
       <xs:sequence>
-        <xs:element ref="articles"/>
+        <xs:element ref="host_institution"/>
+        <xs:element ref="interests"/>
+        <xs:element ref="total_citations"/>
+        <xs:element ref="number_of_citations_in_2026"/>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element ref="article"/>
+          <xs:element ref="article_citations"/>
+          <xs:element ref="authors"/>
+          <xs:element ref="date"/>
+          <xs:element ref="journal"/>
+        </xs:choice>
       </xs:sequence>
-      <xs:attribute name="Name" use="required"/>
+      <xs:attribute name="name" use="required"/>
     </xs:complexType>
   </xs:element>
-  <xs:element name="articles">
-    <xs:complexType mixed="true">
-      <xs:choice minOccurs="0" maxOccurs="unbounded">
-        <xs:element ref="Authors"/>
-        <xs:element ref="Publicationdate"/>
-        <xs:element ref="description"/>
-        <xs:element ref="issue"/>
-        <xs:element ref="journal"/>
-        <xs:element ref="pages"/>
-        <xs:element ref="publisher"/>
-        <xs:element ref="totalcitations"/>
-        <xs:element ref="volume"/>
-      </xs:choice>
-      <xs:attribute name="ArticleName" use="required"/>
-    </xs:complexType>
-  </xs:element>
-  <xs:element name="Authors" type="xs:string"/>
-  <xs:element name="Publicationdate" type="xs:string"/>
-  <xs:element name="description" type="xs:string"/>
-  <xs:element name="issue" type="xs:integer"/>
+  <xs:element name="host_institution" type="xs:string"/>
+  <xs:element name="interests" type="xs:string"/>
+  <xs:element name="total_citations" type="xs:integer"/>
+  <xs:element name="number_of_citations_in_2026" type="xs:integer"/>
+  <xs:element name="article" type="xs:string"/>
+  <xs:element name="article_citations" type="xs:integer"/>
+  <xs:element name="authors" type="xs:string"/>
+  <xs:element name="date" type="xs:string"/>
   <xs:element name="journal" type="xs:string"/>
-  <xs:element name="pages" type="xs:NMTOKEN"/>
-  <xs:element name="publisher" type="xs:NCName"/>
-  <xs:element name="totalcitations" type="xs:string"/>
-  <xs:element name="volume" type="xs:integer"/>
 </xs:schema>
