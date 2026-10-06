@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+
   <xs:element name="scholar">
     <xs:complexType>
       <xs:sequence>
@@ -9,6 +10,7 @@
       </xs:sequence>
     </xs:complexType>
   </xs:element>
+
   <xs:element name="authors">
     <xs:complexType>
       <xs:sequence>
@@ -16,15 +18,17 @@
       </xs:sequence>
     </xs:complexType>
   </xs:element>
+
   <xs:element name="author">
     <xs:complexType>
       <xs:sequence>
         <xs:element ref="name"/>
       </xs:sequence>
-      <xs:attribute name="id" use="required" type="xs:NCName"/>
+      <xs:attribute name="id" use="required" type="xs:ID"/>
     </xs:complexType>
   </xs:element>
   <xs:element name="name" type="xs:string"/>
+
   <xs:element name="interests">
     <xs:complexType>
       <xs:sequence>
@@ -32,33 +36,41 @@
       </xs:sequence>
     </xs:complexType>
   </xs:element>
+
   <xs:element name="interest">
-    <xs:complexType mixed="true">
-      <xs:attribute name="id" use="required" type="xs:NCName"/>
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:string">
+          <xs:attribute name="id" use="required" type="xs:ID"/>
+        </xs:extension>
+      </xs:simpleContent>
     </xs:complexType>
   </xs:element>
+
   <xs:element name="investigators">
     <xs:complexType>
       <xs:sequence>
-        <xs:element maxOccurs="unbounded" ref="investigador"/>
+        <xs:element maxOccurs="unbounded" ref="investigator"/>
       </xs:sequence>
     </xs:complexType>
   </xs:element>
-  <xs:element name="investigador">
+
+  <xs:element name="investigator">
     <xs:complexType>
       <xs:sequence>
         <xs:element ref="host_institution"/>
         <xs:element ref="total_citations"/>
-        <xs:element ref="number_of_citations_in_2026"/>
+        <xs:element ref="citations_current_year"/>
         <xs:element maxOccurs="unbounded" ref="article"/>
       </xs:sequence>
-      <xs:attribute name="InterestRef" use="required"/>
-      <xs:attribute name="name" use="required"/>
+      <xs:attribute name="authorRef" use="required" type="xs:IDREF"/>
+      <xs:attribute name="interestRefs" use="required" type="xs:IDREFS"/>
     </xs:complexType>
   </xs:element>
   <xs:element name="host_institution" type="xs:string"/>
-  <xs:element name="total_citations" type="xs:integer"/>
-  <xs:element name="number_of_citations_in_2026" type="xs:integer"/>
+  <xs:element name="total_citations" type="xs:nonNegativeInteger"/>
+  <xs:element name="citations_current_year" type="xs:nonNegativeInteger"/>
+
   <xs:element name="article">
     <xs:complexType>
       <xs:sequence>
@@ -68,13 +80,13 @@
         <xs:element ref="publisher"/>
         <xs:element ref="article_citations"/>
       </xs:sequence>
-      <xs:attribute name="ID" use="required" type="xs:NCName"/>
-      <xs:attribute name="authorRef" use="required"/>
+      <xs:attribute name="id" use="required" type="xs:ID"/>
+      <xs:attribute name="authorRefs" use="required" type="xs:IDREFS"/>
     </xs:complexType>
   </xs:element>
   <xs:element name="title" type="xs:string"/>
   <xs:element name="date" type="xs:string"/>
   <xs:element name="journal" type="xs:string"/>
   <xs:element name="publisher" type="xs:string"/>
-  <xs:element name="article_citations" type="xs:integer"/>
+  <xs:element name="article_citations" type="xs:nonNegativeInteger"/>
 </xs:schema>

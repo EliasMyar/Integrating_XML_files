@@ -174,207 +174,226 @@
 		<author id="a57">
 			<name>Lorena Petrella</name>
 		</author>
-		
+
 	</authors>
 
 	<interests>
-		<interest id = "i1">Dependable ComputingSoftware</interest>
-		<interest id = "i2">Software Robustness</interest>
-		<interest id = "i3">Software Security</interest>
-		<interest id = "i4">Software Engineering</interest>
-		<interest id = "i5">Cloud Computing</interest>
-		<interest id = "i6">Biomedical Signal Processing</interest>
-		<interest id = "i7">Epileptic Seizure Prediction/Forecasting</interest>
-		<interest id = "i8">Computational Intelligence</interest>
-		<interest id = "i9">Intelligent ControlEnergy</interest>
-		<interest id = "i10">Biomedical Engineering</interest>
-		<interest id = "i11">Signal Processing</interest>
-		<interest id = "i12">Image Processing</interest>
-		<interest id = "i13">Machine Learning</interest>
-		<interest id = "i14">Data Science</interest>
+		<interest id="i1">Dependable Computing</interest>
+		<interest id="i2">Software Robustness</interest>
+		<interest id="i3">Software Security</interest>
+		<interest id="i4">Software Engineering</interest>
+		<interest id="i5">Cloud Computing</interest>
+		<interest id="i6">Biomedical Signal Processing</interest>
+		<interest id="i7">Epileptic Seizure Prediction/Forecasting</interest>
+		<interest id="i8">Computational Intelligence</interest>
+		<interest id="i9">Intelligent Control</interest>
+		<interest id="i10">Biomedical Engineering</interest>
+		<interest id="i11">Signal Processing</interest>
+		<interest id="i12">Image Processing</interest>
+		<interest id="i13">Machine Learning</interest>
+		<interest id="i14">Data Science</interest>
+		<interest id="i15">Energy</interest>
 	</interests>
-	
+
 	<investigators>
-		<investigador name="Nuno Laranjeiro" InterestRef = "i1 i2 i3 i4 i5">
-	
+		<investigator authorRef="a1" interestRefs="i1 i2 i3 i4 i5">
+
 			<host_institution>University of Coimbra</host_institution>
 			<total_citations>2335</total_citations>
-			<number_of_citations_in_2026>230</number_of_citations_in_2026>
-	
-			<article ID="ar1" authorRef="a2 a1 a3">
+			<citations_current_year>230</citations_current_year>
+
+			<article id="ar1" authorRefs="a2 a1 a3">
 				<title>An analysis of public REST web service APIs</title>
-				<date>2021/7/1</date>
+				<date>2021-07-01</date>
 				<journal>IEEE Transactions on Services Computing</journal>
 				<publisher>IEEE</publisher>
 				<article_citations>321</article_citations>
 			</article>
-	
-			<article ID="ar2" authorRef="a1 a4 a3">
+
+			<article id="ar2" authorRefs="a1 a4 a3">
 				<title>A survey on data quality: classifying poor data</title>
-				<date>2015/11/18</date>
-				<journal>2015 IEEE 21st Pacific rim international symposium on dependable computing (PRDC)</journal>
+				<date>2015-11-18</date>
+				<journal>2015 IEEE 21st Pacific rim international symposium on
+					dependable computing (PRDC)</journal>
 				<publisher>IEEE</publisher>
 				<article_citations>269</article_citations>
 			</article>
-	
-			<article ID="ar3" authorRef="a1 a5 a3">
-				<title>A black box tool for robustness testing of REST services</title>
-				<date>2021/2/2</date>
+
+			<article id="ar3" authorRefs="a1 a5 a3">
+				<title>A black box tool for robustness testing of REST services
+				</title>
+				<date>2021-02-02</date>
 				<journal>IEEE Access</journal>
 				<publisher>IEEE</publisher>
 				<article_citations>102</article_citations>
 			</article>
-	
-			<article ID="ar4" authorRef="a6 a1 a7">
+
+			<article id="ar4" authorRefs="a6 a1 a7">
 				<title>Assessing robustness of web-services infrastructures</title>
-				<date>2007/6/25</date>
-				<journal>37th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN'07)</journal>
+				<date>2007-06-25</date>
+				<journal>37th Annual IEEE/IFIP International Conference on
+					Dependable Systems and Networks (DSN'07)</journal>
 				<publisher>IEEE</publisher>
 				<article_citations>79</article_citations>
 			</article>
-		</investigador>
-	
-		<investigador name="C.A. Teixeira" InterestRef = "i6 i7">
-	
+		</investigator>
+
+		<investigator authorRef="a15" interestRefs="i6 i7">
+
 			<host_institution>University of Coimbra</host_institution>
 			<total_citations>4560</total_citations>
-			<number_of_citations_in_2026>394</number_of_citations_in_2026>
-	
-			<article ID="ar5" authorRef="a8 a9 a10 a11 a12 a13 a14 a15">
-				<title>Prediction of disease progression and outcomes in multiple sclerosis with machine learning</title>
-				<date>2020/12/3</date>
-				<journal>Scientific reports</journal>
+			<citations_current_year>394</citations_current_year>
+
+			<article id="ar5" authorRefs="a8 a9 a10 a11 a12 a13 a14 a15">
+				<title>Prediction of disease progression and outcomes in multiple
+					sclerosis with machine learning</title>
+				<date>2020-12-03</date>
+				<journal>Scientific Reports</journal>
 				<publisher>Nature Publishing Group UK</publisher>
 				<article_citations>155</article_citations>
 			</article>
-	
-			<article ID="ar6" authorRef="a16 a8 a17 a18 a19 a15">
-				<title>EEG epilepsy seizure prediction: the post-processing stage as a chronology</title>
-				<date>2024/1/3</date>
+
+			<article id="ar6" authorRefs="a16 a8 a17 a18 a19 a15">
+				<title>EEG epilepsy seizure prediction: the post-processing stage as
+					a chronology</title>
+				<date>2024-01-03</date>
 				<journal>Scientific Reports</journal>
 				<publisher>Nature Publishing Group UK</publisher>
 				<article_citations>58</article_citations>
 			</article>
-	
-			<article ID="ar7" authorRef="a20 a15 a21 a22 a23">
-				<title>A realistic seizure prediction study based on multiclass SVM</title>
-				<date>2017/5/22</date>
+
+			<article id="ar7" authorRefs="a20 a15 a21 a22 a23">
+				<title>A realistic seizure prediction study based on multiclass SVM
+				</title>
+				<date>2017-05-22</date>
 				<journal>International journal of neural systems</journal>
 				<publisher>World Scientific Publishing Company</publisher>
 				<article_citations>125</article_citations>
 			</article>
-	
-			<article ID="ar8" authorRef="a24 a25 a15 a26 a27 a28 a29">
+
+			<article id="ar8" authorRefs="a24 a25 a15 a26 a27 a28 a29">
 				<title>EPILEPSIAE–A European epilepsy database</title>
-				<date>2012/6/1</date>
+				<date>2012-06-01</date>
 				<journal>Computer methods and programs in biomedicine</journal>
 				<publisher>Elsevier</publisher>
 				<article_citations>350</article_citations>
 			</article>
-	
-			<article ID="ar9" authorRef="a30 a15 a31 a23">
-				<title>Epileptic seizure prediction using relative spectral power features</title>
-				<date>2015/2/1</date>
+
+			<article id="ar9" authorRefs="a30 a15 a31 a23">
+				<title>Epileptic seizure prediction using relative spectral power
+					features</title>
+				<date>2015-02-01</date>
 				<journal>Clinical Neurophysiology</journal>
 				<publisher>Elsevier</publisher>
 				<article_citations>356</article_citations>
 			</article>
-	
-			<article ID="ar10" authorRef="a8 a32 a33 a18 a23 a14 a15">
-				<title>Interpretable EEG seizure prediction using a multiobjective evolutionary algorithm</title>
-				<date>2022/3/15</date>
-				<journal>Scientific reports</journal>
+
+			<article id="ar10" authorRefs="a8 a32 a33 a18 a23 a14 a15">
+				<title>Interpretable EEG seizure prediction using a multiobjective
+					evolutionary algorithm</title>
+				<date>2022-03-15</date>
+				<journal>Scientific Reports</journal>
 				<publisher>Nature Publishing Group UK</publisher>
 				<article_citations>49</article_citations>
 			</article>
-	
-			<article ID="ar11" authorRef="a34 a15 a8">
-				<title>Comparison between epileptic seizure prediction and forecasting based on machine learning</title>
-				<date>2024/3/7</date>
-				<journal>Scientific reports</journal>
+
+			<article id="ar11" authorRefs="a34 a15 a8">
+				<title>Comparison between epileptic seizure prediction and
+					forecasting based on machine learning</title>
+				<date>2024-03-07</date>
+				<journal>Scientific Reports</journal>
 				<publisher>Nature Publishing Group UK</publisher>
 				<article_citations>47</article_citations>
 			</article>
-		</investigador>
-	
-		<investigador name="Antonio Ruano" InterestRef = "i8 i9">
-	
+		</investigator>
+
+		<investigator authorRef="a35" interestRefs="i8 i9 i15">
+
 			<host_institution>University of Algarve</host_institution>
 			<total_citations>6710</total_citations>
-			<number_of_citations_in_2026>251</number_of_citations_in_2026>
-	
-			<article ID="ar12" authorRef="a35 a36 a37 a38 a39">
-				<title>NILM techniques for intelligent home energy management and ambient assisted living: A review</title>
-				<date>2019/6/10</date>
-				<journal></journal>
+			<citations_current_year>251</citations_current_year>
+
+			<article id="ar12" authorRefs="a35 a36 a37 a38 a39">
+				<title>NILM techniques for intelligent home energy management and
+					ambient assisted living: A review</title>
+				<date>2019-06-10</date>
+				<journal>Energies</journal>
 				<publisher>MDPI</publisher>
 				<article_citations>352</article_citations>
 			</article>
-	
-			<article ID="ar13" authorRef="a40 a41 a42 a35">
+
+			<article id="ar13" authorRefs="a40 a41 a42 a35">
 				<title>Fuzzy rule extraction by bacterial memetic algorithms</title>
-				<date>2009/3</date>
+				<date>2009-03</date>
 				<journal>International Journal of Intelligent Systems</journal>
-				<publisher>Wiley Subscription Services, Inc., A Wiley Company</publisher>
+				<publisher>Wiley Subscription Services, Inc., A Wiley Company
+				</publisher>
 				<article_citations>154</article_citations>
 			</article>
-	
-			<article ID="ar14" authorRef="a43 a38 a35">
-				<title>MILP-based model predictive control for home energy management systems: A real case study in Algarve, Portugal</title>
-				<date>2023/2/15</date>
+
+			<article id="ar14" authorRefs="a43 a38 a35">
+				<title>MILP-based model predictive control for home energy
+					management systems: A real case study in Algarve, Portugal</title>
+				<date>2023-02-15</date>
 				<journal>Energy and Buildings</journal>
 				<publisher>Elsevier</publisher>
 				<article_citations>86</article_citations>
 			</article>
-	
-			<article ID="ar15" authorRef="a44 a35 a45 a46">
-				<title>Neural networks based predictive control for thermal comfort and energy savings in public buildings</title>
-				<date>2012/12/1</date>
+
+			<article id="ar15" authorRefs="a44 a35 a45 a46">
+				<title>Neural networks based predictive control for thermal comfort
+					and energy savings in public buildings</title>
+				<date>2012-12-01</date>
 				<journal>Energy and Buildings</journal>
 				<publisher>Elsevier</publisher>
 				<article_citations>563</article_citations>
 			</article>
-	
-			<article ID="ar16" authorRef="a47 a38 a48 a49 a50 a51 a35">
-				<title>Comparison of different methods of measuring similarity in physiologic time series</title>
-				<date>2017/7/1</date>
+
+			<article id="ar16" authorRefs="a47 a38 a48 a49 a50 a51 a35">
+				<title>Comparison of different methods of measuring similarity in
+					physiologic time series</title>
+				<date>2017-07-01</date>
 				<journal>IFAC-PapersOnLine</journal>
 				<publisher>Elsevier</publisher>
 				<article_citations>81</article_citations>
 			</article>
-	
-			<article ID="ar17" authorRef="a44 a52 a35">
-				<title>Neural network models in greenhouse air temperature prediction</title>
-				<date>2002/3/1</date>
+
+			<article id="ar17" authorRefs="a44 a52 a35">
+				<title>Neural network models in greenhouse air temperature
+					prediction</title>
+				<date>2002-03-01</date>
 				<journal>Neurocomputing</journal>
 				<publisher>Elsevier</publisher>
 				<article_citations>311</article_citations>
 			</article>
-		</investigador>
-	
-		<investigador name="Diogo Pessoa" InterestRef = "i10 i11 i12 i13 i14">
-	
+		</investigator>
+
+		<investigator authorRef="a54"
+			interestRefs="i10 i11 i12 i13 i14">
+
 			<host_institution>University of Coimbra</host_institution>
 			<total_citations>395</total_citations>
-			<number_of_citations_in_2026>70</number_of_citations_in_2026>
-	
-			<article ID="ar18" authorRef="a53 a54 a55 a48 a56">
-				<title>Automatic classification of adventitious respiratory sounds: A (un) solved problem?</title>
-				<date>2020/12/24</date>
+			<citations_current_year>70</citations_current_year>
+
+			<article id="ar18" authorRefs="a53 a54 a55 a48 a56">
+				<title>Automatic classification of adventitious respiratory sounds:
+					A (un) solved problem?</title>
+				<date>2020-12-24</date>
 				<journal>Sensors</journal>
 				<publisher>MDPI</publisher>
 				<article_citations>107</article_citations>
 			</article>
-	
-			<article ID="ar19" authorRef="a54 a57 a14 a22 a15">
-				<title>Automatic segmentation and classification of mice ultrasonic vocalizations</title>
-				<date>2022/7/7</date>
+
+			<article id="ar19" authorRefs="a54 a57 a14 a22 a15">
+				<title>Automatic segmentation and classification of mice ultrasonic
+					vocalizations</title>
+				<date>2022-07-07</date>
 				<journal>The Journal of the Acoustical Society of America</journal>
 				<publisher>Acoustical Society of America</publisher>
 				<article_citations>9</article_citations>
 			</article>
-		</investigador>
-		
+		</investigator>
+
 	</investigators>
-	
+
 </scholar>
