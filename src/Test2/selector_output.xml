@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<scholar>
+    <authors>
+        <author id="a1">
+            <name>Nuno Laranjeiro</name>
+        </author>
+        <author id="a2">
+            <name>Andy Neumann</name>
+        </author>
+        <author id="a3">
+            <name>Jorge Bernardino</name>
+        </author>
+        <author id="a4">
+            <name>Seyma Nur Soydemir</name>
+        </author>
+        <author id="a5">
+            <name>João Agnelo</name>
+        </author>
+        <author id="a6">
+            <name>Marco Vieira</name>
+        </author>
+        <author id="a7">
+            <name>Henrique Madeira</name>
+        </author>
+        <author id="a8">
+            <name>Mauro F Pinto</name>
+        </author>
+        <author id="a9">
+            <name>Hugo Oliveira</name>
+        </author>
+        <author id="a10">
+            <name>Sónia Batista</name>
+        </author>
+        <author id="a11">
+            <name>Luís Cruz</name>
+        </author>
+        <author id="a12">
+            <name>Mafalda Pinto</name>
+        </author>
+        <author id="a13">
+            <name>Inês Correia</name>
+        </author>
+        <author id="a14">
+            <name>Pedro Martins</name>
+        </author>
+        <author id="a15">
+            <name>César Teixeira</name>
+        </author>
+        <author id="a16">
+            <name>Joana Batista</name>
+        </author>
+        <author id="a17">
+            <name>Mariana Tavares</name>
+        </author>
+        <author id="a18">
+            <name>Fábio Lopes</name>
+        </author>
+        <author id="a19">
+            <name>Ana Oliveira</name>
+        </author>
+        <author id="a20">
+            <name>Bruno Direito</name>
+        </author>
+        <author id="a21">
+            <name>Francisco Sales</name>
+        </author>
+        <author id="a22">
+            <name>Miguel Castelo-Branco</name>
+        </author>
+        <author id="a23">
+            <name>Antonio Dourado</name>
+        </author>
+        <author id="a24">
+            <name>Matthias Ihle</name>
+        </author>
+        <author id="a25">
+            <name>Hinnerk Feldwisch-Drentrup</name>
+        </author>
+        <author id="a26">
+            <name>Adrien Witon</name>
+        </author>
+        <author id="a27">
+            <name>Björn Schelter</name>
+        </author>
+        <author id="a28">
+            <name>Jens Timmer</name>
+        </author>
+        <author id="a29">
+            <name>Andreas Schulze-Bonhage</name>
+        </author>
+        <author id="a30">
+            <name>Mojtaba Bandarabadi</name>
+        </author>
+        <author id="a31">
+            <name>Jalil Rasekhi</name>
+        </author>
+        <author id="a32">
+            <name>Tiago Coelho</name>
+        </author>
+        <author id="a33">
+            <name>Adriana Leal</name>
+        </author>
+        <author id="a34">
+            <name>Gonçalo Costa</name>
+        </author>
+        <author id="a35">
+            <name>Antonio Ruano</name>
+        </author>
+        <author id="a36">
+            <name>Alvaro Hernandez</name>
+        </author>
+        <author id="a37">
+            <name>Jesus Ureña</name>
+        </author>
+        <author id="a38">
+            <name>Maria Ruano</name>
+        </author>
+        <author id="a39">
+            <name>Juan Garcia</name>
+        </author>
+        <author id="a40">
+            <name>János Botzheim</name>
+        </author>
+        <author id="a41">
+            <name>Cristiano Cabrita</name>
+        </author>
+        <author id="a42">
+            <name>László T Kóczy</name>
+        </author>
+        <author id="a43">
+            <name>ILR Gomes</name>
+        </author>
+        <author id="a44">
+            <name>Pedro M Ferreira</name>
+        </author>
+        <author id="a45">
+            <name>S Silva</name>
+        </author>
+        <author id="a46">
+            <name>EZE Conceição</name>
+        </author>
+        <author id="a47">
+            <name>Adell Kianimajd</name>
+        </author>
+        <author id="a48">
+            <name>Paulo Carvalho</name>
+        </author>
+        <author id="a49">
+            <name>Jorge Henriques</name>
+        </author>
+        <author id="a50">
+            <name>Teresa Rocha</name>
+        </author>
+        <author id="a51">
+            <name>Simão Paredes</name>
+        </author>
+        <author id="a52">
+            <name>EA Faria</name>
+        </author>
+        <author id="a53">
+            <name>Bruno Machado Rocha</name>
+        </author>
+        <author id="a54">
+            <name>Diogo Pessoa</name>
+        </author>
+        <author id="a55">
+            <name>Alda Marques</name>
+        </author>
+        <author id="a56">
+            <name>Rui Pedro Paiva</name>
+        </author>
+        <author id="a57">
+            <name>Lorena Petrella</name>
+        </author>
+        <author id="a58">
+            <name>David Weiss</name>
+        </author>
+        <author id="a59">
+            <name>Selina Shah</name>
+        </author>
+        <author id="a60">
+            <name>Raoul J Burchette</name>
+        </author>
+        <author id="a61">
+            <name>Chi Tau Robert Lai</name>
+        </author>
+        <author id="a62">
+            <name>James Coplien</name>
+        </author>
+        <author id="a63">
+            <name>Daniel Hoffman</name>
+        </author>
+        <author id="a64">
+            <name>Joaquim Luis</name>
+        </author>
+        <author id="a65">
+            <name>MC Neves</name>
+        </author>
+        <author id="a66">
+            <name>LF Menezes</name>
+        </author>
+        <author id="a67">
+            <name>C Teodosiu</name>
+        </author>
+        <author id="a68">
+            <name>Jorge Sá Silva</name>
+        </author>
+        <author id="a69">
+            <name>Jorge Granjal</name>
+        </author>
+        <author id="a70">
+            <name>Edmundo Monteiro</name>
+        </author>
+    </authors>
+    <interests>
+        <interest id="i1">Dependable Computing</interest>
+        <interest id="i2">Software Robustness</interest>
+        <interest id="i3">Software Security</interest>
+        <interest id="i4">Software Engineering</interest>
+        <interest id="i5">Cloud Computing</interest>
+        <interest id="i6">Biomedical Signal Processing</interest>
+        <interest id="i7">Epileptic Seizure Prediction/Forecasting</interest>
+        <interest id="i8">Computational Intelligence</interest>
+        <interest id="i9">Intelligent Control</interest>
+        <interest id="i10">Biomedical Engineering</interest>
+        <interest id="i11">Signal Processing</interest>
+        <interest id="i12">Image Processing</interest>
+        <interest id="i13">Machine Learning</interest>
+        <interest id="i14">Data Science</interest>
+        <interest id="i15">Energy</interest>
+        <interest id="i16">Software Product Lines</interest>
+        <interest id="i17">Software Measurement</interest>
+        <interest id="i18">Software Architecture</interest>
+        <interest id="i19">Geophysics</interest>
+        <interest id="i20">Scientific Programming</interest>
+        <interest id="i21">Mechanical Engineering</interest>
+        <interest id="i22">Computational Mechanics</interest>
+        <interest id="i23">Network Protocols</interest>
+        <interest id="i24">Wireless Sensor Networks</interest>
+        <interest id="i25">IoT</interest>
+    </interests>
+    <investigators>
+        <investigator authorRef="a1" interestRefs="i1 i2 i3 i4 i5">
+            <host_institution>University of Coimbra</host_institution>
+            <total_citations>2335</total_citations>
+            <citations_current_year>230</citations_current_year>
+            <article id="ar1" authorRefs="a2 a1 a3">
+                <title>An analysis of public REST web service APIs</title>
+                <date>2021-07-01</date>
+                <journal>IEEE Transactions on Services Computing</journal>
+                <publisher>IEEE</publisher>
+                <article_citations>321</article_citations>
+            </article>
+            <article id="ar2" authorRefs="a1 a4 a3">
+                <title>A survey on data quality: classifying poor data</title>
+                <date>2015-11-18</date>
+                <journal>2015 IEEE 21st Pacific rim international symposium on
+					dependable computing (PRDC)</journal>
+                <publisher>IEEE</publisher>
+                <article_citations>269</article_citations>
+            </article>
+            <article id="ar3" authorRefs="a1 a5 a3">
+                <title>A black box tool for robustness testing of REST services
+				</title>
+                <date>2021-02-02</date>
+                <journal>IEEE Access</journal>
+                <publisher>IEEE</publisher>
+                <article_citations>102</article_citations>
+            </article>
+            <article id="ar4" authorRefs="a6 a1 a7">
+                <title>Assessing robustness of web-services infrastructures</title>
+                <date>2007-06-25</date>
+                <journal>37th Annual IEEE/IFIP International Conference on
+					Dependable Systems and Networks (DSN'07)</journal>
+                <publisher>IEEE</publisher>
+                <article_citations>79</article_citations>
+            </article>
+        </investigator>
+        <investigator authorRef="a15" interestRefs="i6 i7">
+            <host_institution>University of Coimbra</host_institution>
+            <total_citations>4560</total_citations>
+            <citations_current_year>394</citations_current_year>
+            <article id="ar5" authorRefs="a8 a9 a10 a11 a12 a13 a14 a15">
+                <title>Prediction of disease progression and outcomes in multiple
+					sclerosis with machine learning</title>
+                <date>2020-12-03</date>
+                <journal>Scientific Reports</journal>
+                <publisher>Nature Publishing Group UK</publisher>
+                <article_citations>155</article_citations>
+            </article>
+            <article id="ar6" authorRefs="a16 a8 a17 a18 a19 a15">
+                <title>EEG epilepsy seizure prediction: the post-processing stage as
+					a chronology</title>
+                <date>2024-01-03</date>
+                <journal>Scientific Reports</journal>
+                <publisher>Nature Publishing Group UK</publisher>
+                <article_citations>58</article_citations>
+            </article>
+            <article id="ar7" authorRefs="a20 a15 a21 a22 a23">
+                <title>A realistic seizure prediction study based on multiclass SVM
+				</title>
+                <date>2017-05-22</date>
+                <journal>International journal of neural systems</journal>
+                <publisher>World Scientific Publishing Company</publisher>
+                <article_citations>125</article_citations>
+            </article>
+            <article id="ar8" authorRefs="a24 a25 a15 a26 a27 a28 a29">
+                <title>EPILEPSIAE–A European epilepsy database</title>
+                <date>2012-06-01</date>
+                <journal>Computer methods and programs in biomedicine</journal>
+                <publisher>Elsevier</publisher>
+                <article_citations>350</article_citations>
+            </article>
+            <article id="ar9" authorRefs="a30 a15 a31 a23">
+                <title>Epileptic seizure prediction using relative spectral power
+					features</title>
+                <date>2015-02-01</date>
+                <journal>Clinical Neurophysiology</journal>
+                <publisher>Elsevier</publisher>
+                <article_citations>356</article_citations>
+            </article>
+            <article id="ar10" authorRefs="a8 a32 a33 a18 a23 a14 a15">
+                <title>Interpretable EEG seizure prediction using a multiobjective
+					evolutionary algorithm</title>
+                <date>2022-03-15</date>
+                <journal>Scientific Reports</journal>
+                <publisher>Nature Publishing Group UK</publisher>
+                <article_citations>49</article_citations>
+            </article>
+            <article id="ar11" authorRefs="a34 a15 a8">
+                <title>Comparison between epileptic seizure prediction and
+					forecasting based on machine learning</title>
+                <date>2024-03-07</date>
+                <journal>Scientific Reports</journal>
+                <publisher>Nature Publishing Group UK</publisher>
+                <article_citations>47</article_citations>
+            </article>
+        </investigator>
+        <investigator authorRef="a54" interestRefs="i10 i11 i12 i13 i14">
+            <host_institution>University of Coimbra</host_institution>
+            <total_citations>395</total_citations>
+            <citations_current_year>70</citations_current_year>
+            <article id="ar18" authorRefs="a53 a54 a55 a48 a56">
+                <title>Automatic classification of adventitious respiratory sounds:
+					A (un) solved problem?</title>
+                <date>2020-12-24</date>
+                <journal>Sensors</journal>
+                <publisher>MDPI</publisher>
+                <article_citations>107</article_citations>
+            </article>
+            <article id="ar19" authorRefs="a54 a57 a14 a22 a15">
+                <title>Automatic segmentation and classification of mice ultrasonic
+					vocalizations</title>
+                <date>2022-07-07</date>
+                <journal>The Journal of the Acoustical Society of America</journal>
+                <publisher>Acoustical Society of America</publisher>
+                <article_citations>9</article_citations>
+            </article>
+        </investigator>
+        <investigator authorRef="a66" interestRefs="i21 i22">
+            <host_institution>University of Coimbra</host_institution>
+            <total_citations>7473</total_citations>
+            <citations_current_year>280</citations_current_year>
+            <article id="ar25" authorRefs="a66 a67">
+                <title>Three-dimensional numerical simulation of the deep-drawing process using solid finite elements</title>
+                <date>2000-01-01</date>
+                <journal>Journal of materials processing technology</journal>
+                <publisher>Elsevier</publisher>
+                <article_citations>416</article_citations>
+            </article>
+        </investigator>
+        <investigator authorRef="a68" interestRefs="i23 i24 i25">
+            <host_institution>University of Coimbra</host_institution>
+            <total_citations>6553</total_citations>
+            <citations_current_year>281</citations_current_year>
+            <article id="ar26" authorRefs="a69 a70 a68">
+                <title>Security in the integration of low-power Wireless Sensor Networks with the Internet: A survey</title>
+                <date>2015-01-01</date>
+                <journal>Ad Hoc Networks</journal>
+                <publisher>Elsevier</publisher>
+                <article_citations>146</article_citations>
+            </article>
+            <article id="ar27" authorRefs="a69 a70 a68">
+                <title>End-to-end transport-layer security for Internet-integrated sensing applications with mutual and delegated ECC public-key authentication</title>
+                <date>2013-05-22</date>
+                <journal>2013 IFIP Networking Conference</journal>
+                <publisher>IEEE</publisher>
+                <article_citations>111</article_citations>
+            </article>
+        </investigator>
+    </investigators>
+</scholar>

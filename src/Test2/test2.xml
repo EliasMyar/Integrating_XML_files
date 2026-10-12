@@ -174,7 +174,45 @@
 		<author id="a57">
 			<name>Lorena Petrella</name>
 		</author>
-
+		<author id="a58">
+			<name>David Weiss</name>
+		</author>
+		<author id="a59">
+			<name>Selina Shah</name>
+		</author>
+		<author id="a60">
+			<name>Raoul J Burchette</name>
+		</author>
+		<author id="a61">
+			<name>Chi Tau Robert Lai</name>
+		</author>
+		<author id="a62">
+			<name>James Coplien</name>
+		</author>
+		<author id="a63">
+			<name>Daniel Hoffman</name>
+		</author>
+		<author id="a64">
+			<name>Joaquim Luis</name>
+		</author>
+		<author id="a65">
+			<name>MC Neves</name>
+		</author>
+		<author id="a66">
+			<name>LF Menezes</name>
+		</author>
+		<author id="a67">
+			<name>C Teodosiu</name>
+		</author>
+		<author id="a68">
+			<name>Jorge Sá Silva</name>
+		</author>
+		<author id="a69">
+			<name>Jorge Granjal</name>
+		</author>
+		<author id="a70">
+			<name>Edmundo Monteiro</name>
+		</author>
 	</authors>
 
 	<interests>
@@ -193,6 +231,17 @@
 		<interest id="i13">Machine Learning</interest>
 		<interest id="i14">Data Science</interest>
 		<interest id="i15">Energy</interest>
+		<interest id="i16">Software Product Lines</interest>
+		<interest id="i17">Software Measurement</interest>
+		<interest id="i18">Software Architecture</interest>
+		<interest id="i19">Geophysics</interest>
+		<interest id="i20">Scientific Programming</interest>
+		<interest id="i21">Mechanical Engineering</interest>
+		<interest id="i22">Computational Mechanics</interest>
+		<interest id="i23">Network Protocols</interest>
+		<interest id="i24">Wireless Sensor Networks</interest>
+		<interest id="i25">IoT</interest>
+		
 	</interests>
 
 	<investigators>
@@ -368,8 +417,7 @@
 			</article>
 		</investigator>
 
-		<investigator authorRef="a54"
-			interestRefs="i10 i11 i12 i13 i14">
+		<investigator authorRef="a54" interestRefs="i10 i11 i12 i13 i14">
 
 			<host_institution>University of Coimbra</host_institution>
 			<total_citations>395</total_citations>
@@ -393,7 +441,99 @@
 				<article_citations>9</article_citations>
 			</article>
 		</investigator>
-
+		
+		<investigator authorRef="a58" interestRefs="i4 i16 i17 i18">
+ 
+			<host_institution>Iowa State University</host_institution>
+			<total_citations>55098</total_citations>
+			<citations_current_year>3606</citations_current_year>
+ 
+			<article id="ar20" authorRefs="a59 a58 a60">
+				<title>Injuries in professional modern dancers incidence, risk factors, and management</title>
+				<date>2012-03</date>
+				<journal>Journal of Dance Medicine &amp; Science</journal>
+				<publisher>SAGE Publications</publisher>
+				<article_citations>1195</article_citations>
+			</article>
+ 
+			<article id="ar21" authorRefs="a58 a61">
+				<title>Software product-line engineering: a family-based software development process</title>
+				<date>1999-09-01</date>
+				<journal></journal>
+				<publisher>Addison-Wesley Longman Publishing Co., Inc.</publisher>
+				<article_citations>1505</article_citations>
+			</article>
+ 
+			<article id="ar22" authorRefs="a62 a63 a58">
+				<title>Commonality and variability in software engineering</title>
+				<date>1998-12-31</date>
+				<journal>IEEE software</journal>
+				<publisher>IEEE</publisher>
+				<article_citations>625</article_citations>
+			</article>
+		</investigator>
+ 
+		<investigator authorRef="a64" interestRefs="i19 i20">
+ 
+			<host_institution>University of Algarve</host_institution>
+			<total_citations>11304</total_citations>
+			<citations_current_year>931</citations_current_year>
+ 
+			<article id="ar23" authorRefs="a64">
+				<title>Mirone: A multi-purpose tool for exploring grid data</title>
+				<date>2007-01-01</date>
+				<journal>Computers and Geosciences</journal>
+				<publisher>Pergamon</publisher>
+				<article_citations>189</article_citations>
+			</article>
+ 
+			<article id="ar24" authorRefs="a64 a65">
+				<title>The isostatic compensation of the Azores Plateau: A 3D admittance and coherence analysis</title>
+				<date>2006-08-01</date>
+				<journal>Journal of Volcanology and Geothermal Research</journal>
+				<publisher>Elsevier</publisher>
+				<article_citations>82</article_citations>
+			</article>
+		</investigator>
+ 
+		<investigator authorRef="a66" interestRefs="i21 i22">
+ 
+			<host_institution>University of Coimbra</host_institution>
+			<total_citations>7473</total_citations>
+			<citations_current_year>280</citations_current_year>
+ 
+			<article id="ar25" authorRefs="a66 a67">
+				<title>Three-dimensional numerical simulation of the deep-drawing process using solid finite elements</title>
+				<date>2000-01-01</date>
+				<journal>Journal of materials processing technology</journal>
+				<publisher>Elsevier</publisher>
+				<article_citations>416</article_citations>
+			</article>
+		</investigator>
+ 
+		<investigator authorRef="a68" interestRefs="i23 i24 i25">
+ 
+			<host_institution>University of Coimbra</host_institution>
+			<total_citations>6553</total_citations>
+			<citations_current_year>281</citations_current_year>
+ 
+			<article id="ar26" authorRefs="a69 a70 a68">
+				<title>Security in the integration of low-power Wireless Sensor Networks with the Internet: A survey</title>
+				<date>2015-01-01</date>
+				<journal>Ad Hoc Networks</journal>
+				<publisher>Elsevier</publisher>
+				<article_citations>146</article_citations>
+			</article>
+ 
+			<article id="ar27" authorRefs="a69 a70 a68">
+				<title>End-to-end transport-layer security for Internet-integrated sensing applications with mutual and delegated ECC public-key authentication</title>
+				<date>2013-05-22</date>
+				<journal>2013 IFIP Networking Conference</journal>
+				<publisher>IEEE</publisher>
+				<article_citations>111</article_citations>
+			</article>
+		</investigator>
+				
 	</investigators>
 
 </scholar>

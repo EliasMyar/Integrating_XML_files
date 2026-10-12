@@ -7,6 +7,7 @@
         <xs:element ref="authors"/>
         <xs:element ref="interests"/>
         <xs:element ref="investigators"/>
+        <xs:element ref="statistics" minOccurs="0"/> 
       </xs:sequence>
     </xs:complexType>
   </xs:element>
@@ -89,4 +90,33 @@
   <xs:element name="journal" type="xs:string"/>
   <xs:element name="publisher" type="xs:string"/>
   <xs:element name="article_citations" type="xs:nonNegativeInteger"/>
+  
+    <xs:element name="statistics">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="total_researchers"/>
+        <xs:element ref="total_venues"/>
+        <xs:element ref="total_citations"/>
+        <xs:element ref="mostCitedInvestigatorCurrentYear"/>
+        <xs:element ref="totalArticles"/>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="top_publication"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="total_researchers" type="xs:nonNegativeInteger"/>
+  <xs:element name="total_venues" type="xs:nonNegativeInteger"/>
+	
+  <xs:element name="mostCitedInvestigatorCurrentYear" type="xs:string"/>
+  
+  <xs:element name="totalArticles" type="xs:nonNegativeInteger"/>
+  
+  
+  <xs:element name="top_publication">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="title"/>
+        <xs:element ref="article_citations"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
 </xs:schema>
