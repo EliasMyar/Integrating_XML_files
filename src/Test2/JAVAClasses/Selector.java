@@ -6,6 +6,10 @@ import java.math.BigInteger;
 import javax.xml.XMLConstants;
 import javax.xml.validation.SchemaFactory;
 
+import Test2.JAVAClasses.Interest;
+import Test2.JAVAClasses.Investigator;
+import Test2.JAVAClasses.Investigators;
+import Test2.JAVAClasses.Scholar;
 import jakarta.xml.bind.JAXBContext;
 //import jakarta.xml.bind.Unmarshaller;
 
