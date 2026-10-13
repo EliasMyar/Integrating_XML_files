@@ -1,0 +1,73 @@
+
+/* General page styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px auto;
+    max-width: 1100px;
+    padding: 0 20px;
+    background-color: #f4f6f9;
+    color: #333333;
+}
+
+/* Main heading */
+h1 {
+    color: #2c3e50;
+    border-bottom: 3px solid #3498db;
+    padding-bottom: 10px;
+}
+
+/* Section heading */
+h3 {
+    color: #34495e;
+    margin-top: 35px;
+}
+
+/* Statistics paragraphs */
+.stat {
+    font-size: 16px;
+    padding: 12px 15px;
+    margin: 10px 0;
+    background-color: #ffffff;
+    border-left: 4px solid #3498db;
+    border-radius: 4px;
+}
+
+/* Publications table */
+.publications {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+}
+
+/* Table headers and cells */
+.publications th,
+.publications td {
+    border: 1px solid #dddddd;
+    padding: 12px 15px;
+    text-align: left;
+}
+
+/* Table header */
+.publications th {
+    background-color: #2c3e50;
+    color: #ffffff;
+}
+
+/* Alternating row colors */
+.publications tbody tr:nth-child(even) {
+    background-color: #f2f5f8;
+}
+
+/* Highlight rows when hovering */
+.publications tbody tr:hover {
+    background-color: #e2eef8;
+}
+
+/* Citation counts */
+.publications .citations {
+    text-align: center;
+    font-weight: bold;
+    color: #2471a3;
+}
