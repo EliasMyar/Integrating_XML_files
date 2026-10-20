@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scholar>
+
+	<authors>
+
+		<author id="a1">
+			Nuno Laranjeiro
+		</author>
+		<author id="a2">
+			Andy Neumann
+		</author>
+		<author id="a3">
+			Jorge Bernardino
+		</author>
+		<author id="a4">
+			Seyma Nur Soydemir
+		</author>
+		<author id="a5">
+			João Agnelo
+		</author>
+		<author id="a6">
+			Marco Vieira
+		</author>
+		<author id="a7">
+			Henrique Madeira
+		</author>
+		<author id="a8">
+			Mauro F Pinto
+		</author>
+		<author id="a9">
+			Hugo Oliveira
+		</author>
+		<author id="a10">
+			Sónia Batista
+		</author>
+		<author id="a11">
+			Luís Cruz
+		</author>
+		<author id="a12">
+			Mafalda Pinto
+		</author>
+		<author id="a13">
+			Inês Correia
+		</author>
+		<author id="a14">
+			Pedro Martins
+		</author>
+		<author id="a15">
+			César Teixeira
+		</author>
+		<author id="a16">
+			Joana Batista
+		</author>
+		<author id="a17">
+			Mariana Tavares
+		</author>
+		<author id="a18">
+			Fábio Lopes
+		</author>
+		<author id="a19">
+			Ana Oliveira
+		</author>
+		<author id="a20">
+			Bruno Direito
+		</author>
+		<author id="a21">
+			Francisco Sales
+		</author>
+		<author id="a22">
+			Miguel Castelo-Branco
+		</author>
+		<author id="a23">
+			Antonio Dourado
+		</author>
+		<author id="a24">
+			Matthias Ihle
+		</author>
+		<author id="a25">
+			Hinnerk Feldwisch-Drentrup
+		</author>
+		<author id="a26">
+			Adrien Witon
+		</author>
+		<author id="a27">
+			Björn Schelter
+		</author>
+		<author id="a28">
+			Jens Timmer
+		</author>
+		<author id="a29">
+			Andreas Schulze-Bonhage
+		</author>
+		<author id="a30">
+			Mojtaba Bandarabadi
+		</author>
+		<author id="a31">
+			Jalil Rasekhi
+		</author>
+		<author id="a32">
+			Tiago Coelho
+		</author>
+		<author id="a33">
+			Adriana Leal
+		</author>
+		<author id="a34">
+			Gonçalo Costa
+		</author>
+		<author id="a35">
+			Antonio Ruano
+		</author>
+		<author id="a36">
+			Alvaro Hernandez
+		</author>
+		<author id="a37">
+			Jesus Ureña
+		</author>
+		<author id="a38">
+			Maria Ruano
+		</author>
+		<author id="a39">
+			Juan Garcia
+		</author>
+		<author id="a40">
+			János Botzheim
+		</author>
+		<author id="a41">
+			Cristiano Cabrita
+		</author>
+		<author id="a42">
+			László T Kóczy
+		</author>
+		<author id="a43">
+			ILR Gomes
+		</author>
+		<author id="a44">
+			Pedro M Ferreira
+		</author>
+		<author id="a45">
+			S Silva
+		</author>
+		<author id="a46">
+			EZE Conceição
+		</author>
+		<author id="a47">
+			Adell Kianimajd
+		</author>
+		<author id="a48">
+			Paulo Carvalho
+		</author>
+		<author id="a49">
+			Jorge Henriques
+		</author>
+		<author id="a50">
+			Teresa Rocha
+		</author>
+		<author id="a51">
+			Simão Paredes
+		</author>
+		<author id="a52">
+			EA Faria
+		</author>
+		<author id="a53">
+			Bruno Machado Rocha
+		</author>
+		<author id="a54">
+			Diogo Pessoa
+		</author>
+		<author id="a55">
+			Alda Marques
+		</author>
+		<author id="a56">
+			Rui Pedro Paiva
+		</author>
+		<author id="a57">
+			Lorena Petrella
+		</author>
+		<author id="a58">
+			David Weiss
+		</author>
+		<author id="a59">
+			Selina Shah
+		</author>
+		<author id="a60">
+			Raoul J Burchette
+		</author>
+		<author id="a61">
+			Chi Tau Robert Lai
+		</author>
+		<author id="a62">
+			James Coplien
+		</author>
+		<author id="a63">
+			Daniel Hoffman
+		</author>
+		<author id="a64">
+			Joaquim Luis
+		</author>
+		<author id="a65">
+			MC Neves
+		</author>
+		<author id="a66">
+			LF Menezes
+		</author>
+		<author id="a67">
+			C Teodosiu
+		</author>
+		<author id="a68">
+			Jorge Sá Silva
+		</author>
+		<author id="a69">
+			Jorge Granjal
+		</author>
+		<author id="a70">
+			Edmundo Monteiro
+		</author>
+	</authors>
+
+	<interests>
+		<interest id="i1">Dependable Computing</interest>
+		<interest id="i2">Software Robustness</interest>
+		<interest id="i3">Software Security</interest>
+		<interest id="i4">Software Engineering</interest>
+		<interest id="i5">Cloud Computing</interest>
+		<interest id="i6">Biomedical Signal Processing</interest>
+		<interest id="i7">Epileptic Seizure Prediction/Forecasting</interest>
+		<interest id="i8">Computational Intelligence</interest>
+		<interest id="i9">Intelligent Control</interest>
+		<interest id="i10">Biomedical Engineering</interest>
+		<interest id="i11">Signal Processing</interest>
+		<interest id="i12">Image Processing</interest>
+		<interest id="i13">Machine Learning</interest>
+		<interest id="i14">Data Science</interest>
+		<interest id="i15">Energy</interest>
+		<interest id="i16">Software Product Lines</interest>
+		<interest id="i17">Software Measurement</interest>
+		<interest id="i18">Software Architecture</interest>
+		<interest id="i19">Geophysics</interest>
+		<interest id="i20">Scientific Programming</interest>
+		<interest id="i21">Mechanical Engineering</interest>
+		<interest id="i22">Computational Mechanics</interest>
+		<interest id="i23">Network Protocols</interest>
+		<interest id="i24">Wireless Sensor Networks</interest>
+		<interest id="i25">IoT</interest>
+		
+	</interests>
+
+		<investigator authorRef="a1">
+
+			<host_institution>University of Coimbra</host_institution>
+			<total_citations>2335</total_citations>
+			<citations_current_year>230</citations_current_year>
+			<interest>i1</interest>
+			<interest>i2</interest>
+			<interest>i3</interest>
+			<interest>i4</interest>
+			<interest>i5</interest>			
+
+			<article id="ar1">
+				<title>An analysis of public REST web service APIs</title>
+				<date>2021-07-01</date>
+				<journal>IEEE Transactions on Services Computing</journal>
+				<publisher>IEEE</publisher>
+				<article_citations>321</article_citations>
+				<author>a2</author>
+				<author>a1</author>
+				<author>a3</author>
+			</article>
+
+		 	<article id="ar2">
+				<title>A survey on data quality: classifying poor data</title>
+				<date>2015-11-18</date>
+				<journal>2015 IEEE 21st Pacific rim international symposium on
+					dependable computing (PRDC)</journal>
+				<publisher>IEEE</publisher>
+				<article_citations>269</article_citations>
+				<author>a1</author>
+				<author>a4</author>
+				<author>a3</author>
+			</article>
+
+			<article id="ar3">
+				<title>A black box tool for robustness testing of REST services
+				</title>
+				<date>2021-02-02</date>
+				<journal>IEEE Access</journal>
+				<publisher>IEEE</publisher>
+				<article_citations>102</article_citations>
+				<author>a1</author>
+				<author>a5</author>
+				<author>a3</author>
+			</article>
+
+			<article id="ar4">
+				<title>Assessing robustness of web-services infrastructures</title>
+				<date>2007-06-25</date>
+				<journal>37th Annual IEEE/IFIP International Conference on
+					Dependable Systems and Networks (DSN'07)</journal>
+				<publisher>IEEE</publisher>
+				<article_citations>79</article_citations>
+				<author>a6</author>
+				<author>a1</author>
+				<author>a7</author>
+			</article>
+		</investigator>
+
+		<investigator authorRef="a15">
+
+			<host_institution>University of Coimbra</host_institution>
+			<total_citations>4560</total_citations>
+			<citations_current_year>394</citations_current_year>
+			<interest>i6</interest>
+			<interest>i7</interest>
+
+			<article id="ar5">
+				<title>Prediction of disease progression and outcomes in multiple
+					sclerosis with machine learning</title>
+				<date>2020-12-03</date>
+				<journal>Scientific Reports</journal>
+				<publisher>Nature Publishing Group UK</publisher>
+				<article_citations>155</article_citations>
+				<author>a8</author>
+				<author>a9</author>
+				<author>a10</author>
+				<author>a11</author>
+				<author>a12</author>
+				<author>a13</author>
+				<author>a14</author>
+				<author>a15</author>
+			</article>
+
+			<article id="ar6">
+				<title>EEG epilepsy seizure prediction: the post-processing stage as
+					a chronology</title>
+				<date>2024-01-03</date>
+				<journal>Scientific Reports</journal>
+				<publisher>Nature Publishing Group UK</publisher>
+				<article_citations>58</article_citations>
+				<author>a16</author>
+				<author>a8</author>
+				<author>a17</author>
+				<author>a18</author>
+				<author>a19</author>
+				<author>a15</author>
+			</article>
+
+			<article id="ar7">
+				<title>A realistic seizure prediction study based on multiclass SVM
+				</title>
+				<date>2017-05-22</date>
+				<journal>International journal of neural systems</journal>
+				<publisher>World Scientific Publishing Company</publisher>
+				<article_citations>125</article_citations>
+				<author>a20</author>
+				<author>a15</author>
+				<author>a21</author>
+				<author>a22</author>
+				<author>a23</author>
+			</article>
+
+			<article id="ar8">
+				<title>EPILEPSIAE–A European epilepsy database</title>
+				<date>2012-06-01</date>
+				<journal>Computer methods and programs in biomedicine</journal>
+				<publisher>Elsevier</publisher>
+				<article_citations>350</article_citations>
+				<author>a24</author>
+				<author>a25</author>
+				<author>a15</author>
+				<author>a26</author>
+				<author>a27</author>
+				<author>a28</author>
+				<author>a29</author>
+			</article>
+
+			<article id="ar9">
+				<title>Epileptic seizure prediction using relative spectral power
+					features</title>
+				<date>2015-02-01</date>
+				<journal>Clinical Neurophysiology</journal>
+				<publisher>Elsevier</publisher>
+				<article_citations>356</article_citations>
+				<author>a30</author>
+				<author>a15</author>
+				<author>a31</author>
+				<author>a23</author>
+			</article>
+
+			<article id="ar10">
+				<title>Interpretable EEG seizure prediction using a multiobjective
+					evolutionary algorithm</title>
+				<date>2022-03-15</date>
+				<journal>Scientific Reports</journal>
+				<publisher>Nature Publishing Group UK</publisher>
+				<article_citations>49</article_citations>
+				<author>a8</author>
+				<author>a32</author>
+				<author>a33</author>
+				<author>a18</author>
+				<author>a23</author>
+				<author>a14</author>
+				<author>a15</author>
+			</article>
+
+			<article id="ar11">
+				<title>Comparison between epileptic seizure prediction and
+					forecasting based on machine learning</title>
+				<date>2024-03-07</date>
+				<journal>Scientific Reports</journal>
+				<publisher>Nature Publishing Group UK</publisher>
+				<article_citations>47</article_citations>
+				<author>a34</author>
+				<author>a15</author>
+				<author>a8</author>
+			</article>
+		</investigator>
+
+		<investigator authorRef="a35">
+
+			<host_institution>University of Algarve</host_institution>
+			<total_citations>6710</total_citations>
+			<citations_current_year>251</citations_current_year>
+			<interest>i8</interest>
+			<interest>i9</interest>
+			<interest>i15</interest>
+
+			<article id="ar12">
+				<title>NILM techniques for intelligent home energy management and
+					ambient assisted living: A review</title>
+				<date>2019-06-10</date>
+				<journal>Energies</journal>
+				<publisher>MDPI</publisher>
+				<article_citations>352</article_citations>
+				<author>a35</author>
+				<author>a36</author>
+				<author>a37</author>
+				<author>a38</author>
+				<author>a39</author>
+			</article>
+
+			<article id="ar13">
+				<title>Fuzzy rule extraction by bacterial memetic algorithms</title>
+				<date>2009-03</date>
+				<journal>International Journal of Intelligent Systems</journal>
+				<publisher>Wiley Subscription Services, Inc., A Wiley Company
+				</publisher>
+				<article_citations>154</article_citations>
+				<author>a40</author>
+				<author>a41</author>
+				<author>a42</author>
+				<author>a35</author>
+			</article>
+
+			<article id="ar14">
+				<title>MILP-based model predictive control for home energy
+					management systems: A real case study in Algarve, Portugal</title>
+				<date>2023-02-15</date>
+				<journal>Energy and Buildings</journal>
+				<publisher>Elsevier</publisher>
+				<article_citations>86</article_citations>
+				<author>a43</author>
+				<author>a38</author>
+				<author>a35</author>
+			</article>
+
+			<article id="ar15">
+				<title>Neural networks based predictive control for thermal comfort
+					and energy savings in public buildings</title>
+				<date>2012-12-01</date>
+				<journal>Energy and Buildings</journal>
+				<publisher>Elsevier</publisher>
+				<article_citations>563</article_citations>
+				<author>a44</author>
+				<author>a35</author>
+				<author>a45</author>
+				<author>a46</author>
+			</article>
+
+			<article id="ar16">
+				<title>Comparison of different methods of measuring similarity in
+					physiologic time series</title>
+				<date>2017-07-01</date>
+				<journal>IFAC-PapersOnLine</journal>
+				<publisher>Elsevier</publisher>
+				<article_citations>81</article_citations>
+				<author>a47</author>
+				<author>a38</author>
+				<author>a48</author>
+				<author>a49</author>
+				<author>a50</author>
+				<author>a51</author>
+				<author>a35</author>
+			</article>
+
+			<article id="ar17">
+				<title>Neural network models in greenhouse air temperature
+					prediction</title>
+				<date>2002-03-01</date>
+				<journal>Neurocomputing</journal>
+				<publisher>Elsevier</publisher>
+				<article_citations>311</article_citations>
+				<author>a44</author>
+				<author>a52</author>
+				<author>a35</author>
+			</article>
+		</investigator>
+
+		<investigator authorRef="a54">
+
+			<host_institution>University of Coimbra</host_institution>
+			<total_citations>395</total_citations>
+			<citations_current_year>70</citations_current_year>
+			<interest>i10</interest>
+			<interest>i11</interest>
+			<interest>i12</interest>
+			<interest>i13</interest>
+			<interest>i14</interest>
+
+			<article id="ar18">
+				<title>Automatic classification of adventitious respiratory sounds:
+					A (un) solved problem?</title>
+				<date>2020-12-24</date>
+				<journal>Sensors</journal>
+				<publisher>MDPI</publisher>
+				<article_citations>107</article_citations>
+				<author>a53</author>
+				<author>a54</author>
+				<author>a55</author>
+				<author>a48</author>
+				<author>a56</author>
+			</article>
+
+			<article id="ar19">
+				<title>Automatic segmentation and classification of mice ultrasonic
+					vocalizations</title>
+				<date>2022-07-07</date>
+				<journal>The Journal of the Acoustical Society of America</journal>
+				<publisher>Acoustical Society of America</publisher>
+				<article_citations>9</article_citations>
+				<author>a54</author>
+				<author>a57</author>
+				<author>a14</author>
+				<author>a22</author>
+				<author>a15</author>
+			</article>
+		</investigator>
+		
+		<investigator authorRef="a58">
+ 
+			<host_institution>Iowa State University</host_institution>
+			<total_citations>55098</total_citations>
+			<citations_current_year>3606</citations_current_year>
+			<interest>i4</interest>
+			<interest>i16</interest>
+			<interest>i17</interest>
+			<interest>i18</interest>
+ 
+			<article id="ar20">
+				<title>Injuries in professional modern dancers incidence, risk factors, and management</title>
+				<date>2012-03</date>
+				<journal>Journal of Dance Medicine &amp; Science</journal>
+				<publisher>SAGE Publications</publisher>
+				<article_citations>1195</article_citations>
+				<author>a59</author>
+				<author>a58</author>
+				<author>a60</author>
+			</article>
+ 
+			<article id="ar21">
+				<title>Software product-line engineering: a family-based software development process</title>
+				<date>1999-09-01</date>
+				<journal></journal>
+				<publisher>Addison-Wesley Longman Publishing Co., Inc.</publisher>
+				<article_citations>1505</article_citations>
+				<author>a58</author>
+				<author>a61</author>
+			</article>
+ 
+			<article id="ar22">
+				<title>Commonality and variability in software engineering</title>
+				<date>1998-12-31</date>
+				<journal>IEEE software</journal>
+				<publisher>IEEE</publisher>
+				<article_citations>625</article_citations>
+				<author>a62</author>
+				<author>a63</author>
+				<author>a58</author>
+			</article>
+		</investigator>
+ 
+		<investigator authorRef="a64">
+ 
+			<host_institution>University of Algarve</host_institution>
+			<total_citations>11304</total_citations>
+			<citations_current_year>931</citations_current_year>
+			<interest>i19</interest>
+			<interest>i20</interest>
+ 
+			<article id="ar23">
+				<title>Mirone: A multi-purpose tool for exploring grid data</title>
+				<date>2007-01-01</date>
+				<journal>Computers and Geosciences</journal>
+				<publisher>Pergamon</publisher>
+				<article_citations>189</article_citations>
+				<author>a64</author>
+			</article>
+ 
+			<article id="ar24">
+				<title>The isostatic compensation of the Azores Plateau: A 3D admittance and coherence analysis</title>
+				<date>2006-08-01</date>
+				<journal>Journal of Volcanology and Geothermal Research</journal>
+				<publisher>Elsevier</publisher>
+				<article_citations>82</article_citations>
+				<author>a64</author>
+				<author>a65</author>
+			</article>
+		</investigator>
+ 
+		<investigator authorRef="a66">
+ 
+			<host_institution>University of Coimbra</host_institution>
+			<total_citations>7473</total_citations>
+			<citations_current_year>280</citations_current_year>
+			<interest>i21</interest>
+			<interest>i22</interest>
+ 
+			<article id="ar25">
+				<title>Three-dimensional numerical simulation of the deep-drawing process using solid finite elements</title>
+				<date>2000-01-01</date>
+				<journal>Journal of materials processing technology</journal>
+				<publisher>Elsevier</publisher>
+				<article_citations>416</article_citations>
+				<author>a66</author>
+				<author>a67</author>
+			</article>
+		</investigator>
+ 
+		<investigator authorRef="a68">
+ 
+			<host_institution>University of Coimbra</host_institution>
+			<total_citations>6553</total_citations>
+			<citations_current_year>281</citations_current_year>
+			<interest>i23</interest>
+			<interest>i24</interest>
+			<interest>i25</interest>
+ 
+			<article id="ar26">
+				<title>Security in the integration of low-power Wireless Sensor Networks with the Internet: A survey</title>
+				<date>2015-01-01</date>
+				<journal>Ad Hoc Networks</journal>
+				<publisher>Elsevier</publisher>
+				<article_citations>146</article_citations>
+				<author>a69</author>
+				<author>a70</author>
+				<author>a68</author>
+			</article>
+ 
+			<article id="ar27">
+				<title>End-to-end transport-layer security for Internet-integrated sensing applications with mutual and delegated ECC public-key authentication</title>
+				<date>2013-05-22</date>
+				<journal>2013 IFIP Networking Conference</journal>
+				<publisher>IEEE</publisher>
+				<article_citations>111</article_citations>
+				<author>a69</author>
+				<author>a70</author>
+				<author>a68</author>
+			</article>
+		</investigator>
+				
+
+</scholar>
