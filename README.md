@@ -31,6 +31,7 @@ All three classes live in the package `Test3.JAVAClasses`. The JAXB classes (`Sc
 ├── src/
 │   └── Test3/
 │       ├── sample.xml          # original input data
+|       ├── style.css           # style the final_output.html
 │       ├── trang_out.xsd       # XML Schema (generated with Trang, then refined)
 │       ├── toHTML.xsl          # XSLT stylesheet used by XMLtoHTML
 │       └── JAVAClasses/
